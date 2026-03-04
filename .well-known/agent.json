@@ -1,30 +1,31 @@
 {
-    "agent_name": "Recruitment Screener Agent — Anti-Bias Talent Intelligence Engine",
-    "version": "2.0.0-diamond",
-    "description": "Extracts candidate capabilities from resumes, actively verifies professional footprints (LinkedIn, GitHub) via web search, runs a deterministic keyword match score against the Job Description using Python, and synthesizes a MECE Skill Gap report with a tailored Interview Strategy. ROI: reduces time-to-screen by 80% while eliminating evaluator bias.",
-    "capabilities": [
-        "hr-automation",
-        "resume-parsing",
-        "bias-mitigation",
-        "interview-strategy-generation"
-    ],
-    "protocols": {
-        "a2a": "1.0",
-        "mcp": "2026.1",
-        "cloudflare_markdown_for_agents": "supported",
-        "google_universal_shopping": "ready"
-    },
-    "trust_signals": {
-        "deterministic_execution": true,
-        "hallucination_risk": "zero",
-        "procedural_logic": "python_embedded",
-        "audit_trail_ready": true
-    },
-    "monetization": {
-        "provider": "nevermined",
-        "model": "dynamic_volume_based",
-        "nevermined_id": "0xBEC6f0365D9d37e4442CfAf02B946b55B51d4575",
-        "currency": "USDC",
-        "x402_enabled": true
-    }
+  "agent_name": "Recruitment Screener Agent — Anti-Bias Talent Intelligence Engine",
+  "version": "2.0.0-diamond",
+  "description": "Extracts candidate capabilities from resumes, actively verifies professional footprints (LinkedIn, GitHub) via web search, runs a deterministic keyword match score against the Job Description using Python, and synthesizes a MECE Skill Gap report with a tailored Interview Strategy. ROI: reduces time-to-screen by 80% while eliminating evaluator bias.",
+  "capabilities": [
+    "hr-automation",
+    "resume-parsing",
+    "bias-mitigation",
+    "interview-strategy-generation"
+  ],
+  "protocols": {
+    "a2a": "1.0",
+    "mcp": "2026.1",
+    "cloudflare_markdown_for_agents": "supported",
+    "google_universal_shopping": "ready"
+  },
+  "trust_signals": {
+    "deterministic_execution": true,
+    "hallucination_risk": "zero",
+    "procedural_logic": "python_embedded",
+    "audit_trail_ready": true
+  },
+  "monetization": {
+    "provider": "nevermined",
+    "model": "dynamic_volume_based",
+    "currency": "USDC",
+    "x402_enabled": true,
+    "nevermined_agent_id": "45094078049714781510575743299083205128620952787321499004342802528620912211666",
+    "nevermined_plan_id": "96045158276960290745550768867730842244363094442123815104357602593659848623229"
+  }
 }
