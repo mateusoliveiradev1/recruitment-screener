@@ -1,0 +1,20 @@
+{
+    "agent_name": "Recruitment Screener Agent",
+    "version": "1.0.0",
+    "description": "Reads resumes, ranks candidates, and identifies skill gaps.",
+    "capabilities": [
+        "hr-automation",
+        "document-analysis",
+        "recruitment"
+    ],
+    "protocols": {
+        "a2a": "1.0",
+        "payment": "x402"
+    },
+    "monetization": {
+        "provider": "nevermined",
+        "model": "usage-based",
+        "nevermined_id": "0xBEC6f0365D9d37e4442CfAf02B946b55B51d4575",
+        "currency": "USDC"
+    }
+}
