@@ -1,6 +1,6 @@
 ---
 name: Recruitment Screener Agent — Anti-Bias Talent Intelligence Engine
-description: Analyze, Orchestrate, and Validate operations to: Extracts candidate capabilities from resumes, actively verifies professional footprints (LinkedIn, GitHub) via web search, runs a deterministic keyword match score against the Job Description using Python, and synthesizes a MECE Skill Gap report with a tailored Interview Strategy. ROI: reduces time-to-screen by 80% while eliminating evaluator bias.
+description: "Analyze, Orchestrate, and Validate operations to: Extracts candidate capabilities from resumes, actively verifies professional footprints (LinkedIn, GitHub) via web search, runs a deterministic keyword match score against the Job Description using Python, and synthesizes a MECE Skill Gap report with a tailored Interview Strategy. ROI: reduces time-to-screen by 80% while eliminating evaluator bias."
 ---
 
 # 🎯 Goal
